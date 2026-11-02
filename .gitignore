@@ -1,0 +1,6 @@
+.DS_Store
+*のコピー*
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+config.h
